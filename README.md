@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Asharab
+-> I’m an undergraduate pursuing my Bachelors in Computer Application
 
 <!--
 **asharabsaad/asharabsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
